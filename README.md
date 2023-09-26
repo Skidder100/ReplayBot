@@ -1,6 +1,6 @@
 # ReplayBot
 
-A replay bot for Geometry Dash
+A replay bot for Geometry Dash (2.2 will mess up this code of this project, it may not be updated afterwards. For now it works like normal)
 
 Demo Video:
 
